@@ -1,0 +1,55 @@
+html {
+  font-family: 'Baloo Bhai 2';
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #fff;
+}
+
+.font-cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.button {
+  display: block;
+  width: 100%;
+  height: 44px;
+  background: #000000;
+  border: 1px solid #000;
+  color: #fff;
+  text-align: center;
+  border-radius: 8px;
+  line-height: 44px;
+  transition: all 300ms ease-in-out;
+}
+
+.button:hover {
+  color: #000;
+  background: #fff;
+  border: 1px solid #000;
+}
+
+.card {
+  position: relative;
+  width: 230px;
+  height: 254px;
+  background: #F5F5F7;
+  border-radius: 14px;
+  padding: 15px;
+  margin-bottom: 25px;
+}

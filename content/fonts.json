@@ -1,0 +1,84 @@
+{
+    "fonts": [
+        {
+            "id": 0,
+            "name": "Monolisa",
+            "description": "",
+            "url": "https://monolisa.dev/",
+            "image": "",
+            "price": ""
+        },
+        {
+            "id": 1,
+            "name": "Victor Mono",
+            "description": "",
+            "url": "https://rubjo.github.io/victor-mono/",
+            "image": "",
+            "price": "Free"
+        },
+        {
+            "id": 2,
+            "name": "Operator Mono",
+            "description": "",
+            "url": "https://www.typography.com/fonts/operator/styles/",
+            "image": "",
+            "price": "50 USD"
+        },
+        {
+            "id": 3,
+            "name": "Cascadia Code",
+            "description": "",
+            "url": "https://github.com/microsoft/cascadia-code/",
+            "image": "",
+            "price": ""
+        },
+        {
+            "id": 4,
+            "name": "Dank Mono",
+            "description": "",
+            "url": "https://dank.sh/",
+            "image": "",
+            "price": ""
+        },
+        {
+            "id": 5,
+            "name": "APL385 Unicode",
+            "description": "",
+            "url": "http://apl385.com/fonts/",
+            "image": "",
+            "price": ""
+        },
+        {
+            "id": 6,
+            "name": "Go Mono",
+            "description": "",
+            "url": "https://blog.golang.org/go-fonts",
+            "image": "",
+            "price": ""
+        },
+        {
+            "id": 7,
+            "name": "Sudo Mono",
+            "description": "",
+            "url": "https://www.kutilek.de/sudo-font/",
+            "image": "",
+            "price": ""
+        },
+        {
+            "id": 8,
+            "name": "Monoid",
+            "description": "",
+            "url": "https://larsenwork.com/monoid/",
+            "image": "",
+            "price": ""
+        },
+        {
+            "id": 9,
+            "name": "Input Mono",
+            "description": "",
+            "url": "https://input.fontbureau.com/",
+            "image": "",
+            "price": ""
+        }
+    ]
+}
