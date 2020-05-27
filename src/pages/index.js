@@ -24,7 +24,7 @@ function IndexPage(props) {
         marginBottom: `30px`
       }}>
         <h1>Yet Another Code Font</h1>
-        <p>A collection of fonts for use in daily programming.</p>
+        <p>A collection of fonts for use in a text editor.</p>
       </div>
       <section className="font-cards">
         <div style={{

@@ -51,28 +51,28 @@
         },
         {
             "name": "Go Mono",
-            "description": "",
+            "description": "Proportional and fixed-width faces in normal, bold, and italic renderings made for technical uses",
             "url": "https://blog.golang.org/go-fonts",
             "image": "",
             "price": "Free"
         },
         {
             "name": "Sudo Mono",
-            "description": "",
+            "description": "A legible, space-efficient, monospace font that features 'coder’s quotes'",
             "url": "https://www.kutilek.de/sudo-font/",
             "image": "",
             "price": "Free"
         },
         {
             "name": "Monoid",
-            "description": "",
+            "description": "Customizable and optimized for coding with bitmap-like sharpness and ligatures",
             "url": "https://larsenwork.com/monoid/",
             "image": "",
             "price": "Free"
         },
         {
             "name": "Input Mono",
-            "description": "",
+            "description": "A flexible system of fonts designed for code",
             "url": "https://input.fontbureau.com/",
             "image": "",
             "price": "Free for Private Use"

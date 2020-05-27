@@ -6,6 +6,9 @@
 <h1 align="center">
   Yet Another Code Font
 </h1>
+<p align="center">
+  While most people seem to install FiraCode and stick with it for years, I think there is much more to offer in the realm of fonts for developers. I hope with this collection, you can discover a new font to improve your developer experience (my favorite is Victor Mono!!). Enjoy! 🍣
+</p>
 
 
 ## Contributing

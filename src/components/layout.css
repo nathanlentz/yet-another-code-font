@@ -42,6 +42,14 @@ a:visited {
   transition: all 300ms ease-in-out;
 }
 
+.text-button, .text-button:visited {
+  color: #000;
+}
+
+.text-button:hover {
+  text-decoration: underline;
+}
+
 .button:hover {
   color: #000;
   background: #fff;
