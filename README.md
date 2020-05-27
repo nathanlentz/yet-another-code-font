@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://yetanothercodefont.com">
-    <img alt="YACF Logo" src="" width="60" />
+    <img alt="YACF Logo" src="https://user-images.githubusercontent.com/12823331/83059949-b3914700-a028-11ea-9601-e7ff79c77289.png" width="60" />
   </a>
 </p>
 <h1 align="center">
