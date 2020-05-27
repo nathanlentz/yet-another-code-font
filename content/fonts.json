@@ -1,84 +1,81 @@
 {
     "fonts": [
         {
-            "id": 0,
-            "name": "Monolisa",
-            "description": "",
-            "url": "https://monolisa.dev/",
+            "name": "Fira Code",
+            "description": "Monospaced font with programming ligatures",
+            "url": "https://github.com/tonsky/FiraCode",
             "image": "",
-            "price": ""
+            "price": "Free"
         },
         {
-            "id": 1,
+            "name": "Monolisa",
+            "description": "Monospaced font with concentration on legibility and reduced eye fatigue over time",
+            "url": "https://monolisa.dev/",
+            "image": "",
+            "price": "$79+"
+        },
+        {
             "name": "Victor Mono",
-            "description": "",
+            "description": "Open-source monospaced font with optional semi-connected cursive italics and programming ligatures.",
             "url": "https://rubjo.github.io/victor-mono/",
             "image": "",
             "price": "Free"
         },
         {
-            "id": 2,
             "name": "Operator Mono",
-            "description": "",
+            "description": "Popular among programmers (and designed with code in mind)",
             "url": "https://www.typography.com/fonts/operator/styles/",
             "image": "",
-            "price": "50 USD"
+            "price": "$199+"
         },
         {
-            "id": 3,
             "name": "Cascadia Code",
-            "description": "",
+            "description": "New monospaced font with programming ligatures, designed originally for the Windows Terminal",
             "url": "https://github.com/microsoft/cascadia-code/",
             "image": "",
-            "price": ""
+            "price": "Free"
         },
         {
-            "id": 4,
             "name": "Dank Mono",
-            "description": "",
+            "description": "The coding font most people want.",
             "url": "https://dank.sh/",
             "image": "",
-            "price": ""
+            "price": "$49"
         },
         {
-            "id": 5,
             "name": "APL385 Unicode",
-            "description": "",
+            "description": "Old school font originally designed in the late 1980s",
             "url": "http://apl385.com/fonts/",
             "image": "",
-            "price": ""
+            "price": "Free"
         },
         {
-            "id": 6,
             "name": "Go Mono",
             "description": "",
             "url": "https://blog.golang.org/go-fonts",
             "image": "",
-            "price": ""
+            "price": "Free"
         },
         {
-            "id": 7,
             "name": "Sudo Mono",
             "description": "",
             "url": "https://www.kutilek.de/sudo-font/",
             "image": "",
-            "price": ""
+            "price": "Free"
         },
         {
-            "id": 8,
             "name": "Monoid",
             "description": "",
             "url": "https://larsenwork.com/monoid/",
             "image": "",
-            "price": ""
+            "price": "Free"
         },
         {
-            "id": 9,
             "name": "Input Mono",
             "description": "",
             "url": "https://input.fontbureau.com/",
             "image": "",
-            "price": ""
+            "price": "Free for Private Use"
         }
     ]
 }
