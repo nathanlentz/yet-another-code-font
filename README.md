@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/918c7deb-e2f3-4ebd-8b36-dddc98e3e26b/deploy-status)](https://app.netlify.com/sites/infallible-noyce-6872ad/deploys)
+
 <p align="center">
   <a href="https://yetanothercodefont.com">
     <img alt="YACF Logo" src="https://user-images.githubusercontent.com/12823331/83059949-b3914700-a028-11ea-9601-e7ff79c77289.png" width="60" />
@@ -16,5 +18,3 @@
 This site was built with [Gatsby](https://www.gatsbyjs.org/) starter. The list of fonts is maintained in a [simple JSON file](https://github.com/nathanlentz/yet-another-code-font/blob/master/content/fonts.json) within this repository. Feel free to add your favorite font and create a pull request!
 
 If you see something you want to improve or add, feel free to create an issue and write some code.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/918c7deb-e2f3-4ebd-8b36-dddc98e3e26b/deploy-status)](https://app.netlify.com/sites/infallible-noyce-6872ad/deploys)
