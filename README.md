@@ -6,7 +6,6 @@
 <h1 align="center">
   Yet Another Code Font
 </h1>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/918c7deb-e2f3-4ebd-8b36-dddc98e3e26b/deploy-status)](https://app.netlify.com/sites/infallible-noyce-6872ad/deploys)
 <p align="center">
   While most people seem to install FiraCode and stick with it for years, I think there is much more to offer in the realm of fonts for developers. I hope with this collection, you can discover a new font to improve your developer experience (my favorite is Victor Mono!!). Enjoy! 🍣
 </p>
