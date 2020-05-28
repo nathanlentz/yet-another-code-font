@@ -1,6 +1,6 @@
-import { Link } from "gatsby"
-import PropTypes from "prop-types"
-import React from "react"
+import { Link } from "gatsby";
+import PropTypes from "prop-types";
+import React from "react";
 
 const Header = () => (
   <header
@@ -9,11 +9,14 @@ const Header = () => (
       marginBottom: `30px`,
     }}
   >
-    <div
+    <nav
       style={{
         margin: `0 auto`,
         maxWidth: 960,
         padding: `1.45rem 1.0875rem`,
+        display: `flex`,
+        justifyContent: `space-between`,
+        alignItems: `center`
       }}
     >
       <Link
@@ -24,13 +27,7 @@ const Header = () => (
           margin: 0
         }}
       >
-        <svg
-          width="56"
-          height="56"
-          viewBox="0 0 56 56"
-          fill="none"
-          xmlns="http://www.w3.org/2000/svg"
-        >
+        <svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
           <g filter="url(#filter0_d)">
             <path
               d="M17.9425 1.85763C22.2635 10.3863 26.5632 16.466 26.5632 26.4717C26.5632 27.9583 26.4674 29.502 26.2759 31.1029C28.7024 29.1018 30.7458 26.7004 32.4061 23.8988C34.0664 21.04 35.1839 18.3242 35.7586 15.7513C36.7803 11.3488 36.8974 9.19516 37.1954 6.3604C37.1954 4.53079 37.2593 3.51572 37.1954 3.05832L37.0038 1L53 12.235C53 21.7833 31.2035 33.9045 30.2456 38.9741L28.9153 44.9299L10.3755 51C11.908 48.713 13.249 45.7684 14.3985 42.1664C15.6117 38.5071 16.2184 35.3625 16.2184 32.7324C16.2184 30.1023 15.7714 27.9011 14.8774 26.1286C13.9834 24.299 12.8659 22.8982 11.5249 21.9262C8.97063 20.0394 6.57599 18.8674 4.341 18.4099L3 18.1527C6.44828 15.3511 9.41762 12.6066 11.908 9.91938C14.3985 7.17495 16.0268 5.14522 16.7931 3.83019L17.9425 1.85763Z"
@@ -74,7 +71,9 @@ const Header = () => (
           </defs>
         </svg>
       </Link>
-    </div>
+
+      <Link to="playground" className="text-button">Playground</Link>
+    </nav>
   </header>
 )
 

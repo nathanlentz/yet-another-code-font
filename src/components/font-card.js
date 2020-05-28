@@ -1,7 +1,10 @@
 import React from "react";
+import PropTypes from "prop-types";
+
+import { Card } from './styles';
 
 const FontCard = ({name, url, description, image, price}) => (
-    <div className="card">
+    <Card>
         <div className="card-content" style={{ height: '100%', position: 'relative' }}>
             <h3>{name}</h3>
             <p>{description}</p>
@@ -13,7 +16,15 @@ const FontCard = ({name, url, description, image, price}) => (
                 View Font
             </a>
         </div>
-    </div>
+    </Card>
 )
+
+FontCard.propTypes = {
+    name: PropTypes.string,
+    url: PropTypes.string,
+    description: PropTypes.string,
+    image: PropTypes.string,
+    price: PropTypes.string
+};
 
 export default FontCard;
