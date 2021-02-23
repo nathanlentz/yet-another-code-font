@@ -76,6 +76,13 @@
             "url": "https://input.fontbureau.com/",
             "image": "",
             "price": "Free for Private Use"
+        },
+        {
+            "name": "JetBrains Mono",
+            "description": "A typeface created by JetBrains for developers",
+            "url": "https://www.jetbrains.com/lp/mono/",
+            "image": "",
+            "price": "Free"
         }
     ]
 }
